@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Procedural Generation in Unity**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at https://docs.google.com/document/d/1UjYD0gvzfTc9tV0LgCFB80shCvYbnXtECOg7LTNCHYg/edit
 
 - 💬 Ask me about **Game Development, C# and Unity**
 
