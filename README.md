@@ -19,7 +19,7 @@
 <a href="https://fb.com/tolga akad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tolga akad" height="30" width="40" /></a>
 <a href="https://instagram.com/tolgaakad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tolgaakad" height="30" width="40" /></a>
 <a href="https://www.behance.net/tolgaakad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tolgaakad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/trasqual" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trasqual" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCNjHSC-HnemzsYdHAGPODtA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trasqual" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
